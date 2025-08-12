@@ -1,8 +1,8 @@
 # 👨‍💻 João Pedro Gualberto
 
-**`Estudante de Tecnologia`**
+**`Technology Student`**
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (IFRO). Tenho paixão por tecnologia e estou em constante evolução. Atualmente, estou me transferindo do curso de Sistemas de Informação para ADS no IFRO, aproveitando uma nova oportunidade. No momento, estou me dedicando ao estudo de desenvolvimento web. Estou ansioso para aprender e crescer nesse ambiente dinâmico, abraçando os desafios que surgirem pelo caminho.
+I am a student of Systems Analysis and Development at (IFRO), passionate about technology and constantly evolving. I am currently transferring from the Information Systems program to ADS at IFRO, embracing a new opportunity. At the moment, I am focusing on studying web development. I am eager to learn and grow in this dynamic environment, embracing the challenges that come my way.
 
 ---
 
