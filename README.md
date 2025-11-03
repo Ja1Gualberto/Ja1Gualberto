@@ -52,7 +52,7 @@ I am a student of Systems Analysis and Development at (IFRO), passionate about t
     align="left" 
     alt="PHP" 
     title="PHP"
-    width="33px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
 />
