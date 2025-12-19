@@ -81,7 +81,7 @@ I am a student of Systems Analysis and Development at (IFRO), passionate about t
 
 <br/>
 
-###<h3 align="left">🛢 Database</h3>
+<h3 align="left">🛢 Database</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
