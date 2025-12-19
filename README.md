@@ -74,14 +74,21 @@ I am a student of Systems Analysis and Development at (IFRO), passionate about t
 />
 <br/>
 <br/>
-### FrameWorks
+### 
+<h3 align="left">🛢 Database</h3>
+###
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
 <br/>
 <br/>
-### DataBase
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> 
+###
+<h3 align="left">🛢 Database</h3>
+###
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+</div>
+
 <br/>
 <br/>
 ### 📊 Estatísticas
