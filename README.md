@@ -75,15 +75,15 @@ I am a student of Systems Analysis and Development at (IFRO), passionate about t
 <br/>
 <br/>
 ### 
-<h3 align="left">🛢 Database</h3>
-###
+<h3 align="left">🛠 Frameworks</h3>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
+
 <br/>
 <br/>
 ###
 <h3 align="left">🛢 Database</h3>
-###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
