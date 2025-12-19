@@ -79,7 +79,6 @@ I am a student of Systems Analysis and Development at (IFRO), passionate about t
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
 
-<br/>
 
 <h3 align="left">🛢 Database</h3>
 
