@@ -72,10 +72,18 @@ I am a student of Systems Analysis and Development at (IFRO), passionate about t
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
 <br/>
 <br/>
+### FrameWorks
 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+          
+<br/>
+<br/>
+### DataBase
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> 
+<br/>
+<br/>
 ### 📊 Estatísticas
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ja1Gualberto&show_icons=true&theme=radical)
