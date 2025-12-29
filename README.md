@@ -89,14 +89,4 @@ I am a student of Systems Analysis and Development at (IFRO), passionate about t
 
 <br/>
 <br/>
-### 📊 Estatísticas
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ja1Gualberto&show_icons=true&theme=radical)
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ja1Gualberto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
 </p>
