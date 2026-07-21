@@ -34,6 +34,23 @@ I am a student of Systems Analysis and Development at (IFRO), passionate about t
 />
 <img
     align="left" 
+    alt="Threejs" 
+    title="Threejs"
+    width="33px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg"
+/>
+<img
+    align="left" 
+    alt="React" 
+    title="React"
+    width="33px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+/>
+
+<img
+    align="left" 
     alt="C" 
     title="C"
     width="33px" 
@@ -64,6 +81,15 @@ I am a student of Systems Analysis and Development at (IFRO), passionate about t
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
 />
+
+<img
+    align="left" 
+    alt="Code-Igniter" 
+    title="Code-Igniter"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg"
+    />
 <img 
     align="left" 
     alt="Git" 
