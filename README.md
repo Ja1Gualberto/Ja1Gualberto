@@ -73,23 +73,7 @@ I am a student of Systems Analysis and Development at (IFRO), passionate about t
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
 />
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
-/>
 
-<img
-    align="left" 
-    alt="Code-Igniter" 
-    title="Code-Igniter"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg"
-    />
 <img 
     align="left" 
     alt="Git" 
@@ -104,6 +88,24 @@ I am a student of Systems Analysis and Development at (IFRO), passionate about t
 <h3 align="left">🛠 Frameworks</h3>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
+
+<img
+    align="left" 
+    alt="Code-Igniter" 
+    title="Code-Igniter"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Laravel" 
+    title="Laravel"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
+/>
 
 
 <h3 align="left">🛢 Database</h3>
