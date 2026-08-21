@@ -63,3 +63,27 @@ I am a student of Systems Analysis and Development at (IFRO), passionate about t
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40" />
 </div>
+
+  
+
+<br/>
+
+  
+
+---
+
+### 📬 Contato & Redes
+
+  
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/jaogualberto" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://ja1-gualberto.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.instagram.com/jao_gualberto" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
