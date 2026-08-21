@@ -108,6 +108,9 @@ I am a student of Systems Analysis and Development at (IFRO), passionate about t
 />
 
 
+<br/>
+<br/>
+
 <h3 align="left">🛢 Database</h3>
 
 <div align="left">
