@@ -1,11 +1,12 @@
 
 
 # 👨‍💻 João Pedro Gualberto
-
+<div align="center">
 <pre>
 💼 ADS @ IFRO • Full-Stack dev • Web Developer Intern @ GTI-Sejus RO
 💻 PHP • JavaScript • C/C++ • HTML5 • CSS3
 📖 Laravel • CodeIgniter • React • MySQL
+</div>
 </pre>
   
 
