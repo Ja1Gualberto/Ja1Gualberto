@@ -18,7 +18,7 @@ I am a student of Systems Analysis and Development at (IFRO), passionate about t
 
   
 
-### 🤖 Languages e Tools
+### 🤖 Languages, Tools and Database
 
 <div align="center">
   
@@ -31,6 +31,10 @@ I am a student of Systems Analysis and Development at (IFRO), passionate about t
   <img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" title="C++" />
   <img src="https://img.shields.io/badge/PHP-2563EB?style=for-the-badge&logo=php&logoColor=white" alt="PHP" title="PHP" />
   <img src="https://img.shields.io/badge/Git-3B82F6?style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Git" />
+
+  <br>
+  
+  <img src="https://img.shields.io/badge/MySQL-3B82F6?style=for-the-badge&logo=mysql&logoColor=black" alt="MySQL" title="MySQL" />
   <img src="https://img.shields.io/badge/jQuery-3B82F6?style=for-the-badge&logo=jquery&logoColor=white" alt="Jquery" title="Jquery"/>
  
 </div>
@@ -49,20 +53,6 @@ I am a student of Systems Analysis and Development at (IFRO), passionate about t
   <img src="https://img.shields.io/badge/Bootstrap-3B82F6?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" title="Bootstrap" />
   <img src="https://img.shields.io/badge/Laravel-2563EB?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" title="Laravel" />
   <img src="https://img.shields.io/badge/CodeIgniter-3B82F6?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" title="CodeIgniter" />
-</div>
-
-  
-
-<br/>
-
----
-
-### 🛢 Database
-
-  
-
-<div align="center">
-  <img src="https://img.shields.io/badge/MySQL-3B82F6?style=for-the-badge&logo=mysql&logoColor=black" alt="MySQL" title="MySQL" />
 </div>
 
   
